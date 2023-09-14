@@ -17,3 +17,9 @@ a{
     text-decoration: none;
 
 }
+
+a:hover{
+    color:#ea337d;
+    text-decoration: underline;
+    
+}
