@@ -8,11 +8,13 @@
     content: "";
     clear: both;
     display: table;
+    width: 100%;
 }
 
 /* selecionamos todas los col */
 [class*="col-"] {
     float: left;
+    padding: 10px;
 }
 
 /* porcentaje 100/12 primera fila asi parael resto */
