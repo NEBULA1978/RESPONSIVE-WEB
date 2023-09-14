@@ -22,7 +22,7 @@
 
 /* para moviles */
 /* cuando sea mas grande de 600px  */
-@media only scree and (min-width: 600px) {
+@media only screen and (min-width: 600px) {
     .col-xs-1 {
         width: 8.33%;
     }
@@ -74,7 +74,7 @@
 }
 
 /* para tablets */
-@media only scree and (min-width: 600px) {
+@media only screen and (min-width: 600px) {
     .col-s-1 {
         width: 8.33%;
     }
@@ -125,7 +125,7 @@
 }
 
 /* para escritorio */
-@media only scree and (min-width: 768px) {}
+@media only screen and (min-width: 768px) {}
 
 .col-m-1 {
     width: 8.33%;
@@ -166,7 +166,7 @@
 }
 
 /* Escritorios mas grande normales */
-@media only scree and (min-width: 992px) {}
+@media only screen and (min-width: 992px) {}
 .col-l-1 {
     width: 8.33%;
 }
@@ -205,7 +205,7 @@
 }
 
 /* Escritorio mas grande */
-@media only scree and (min-width: 1200px) {}
+@media only screen and (min-width: 1200px) {}
 .col-xl-1 {
 width: 8.33%;
 }
