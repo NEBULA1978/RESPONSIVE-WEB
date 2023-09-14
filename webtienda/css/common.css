@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: var(--color-primary);
+    /* eliminamos subrrallado */
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: var(--color-primary-dark);
+
+    text-decoration: underline;
+
+}
