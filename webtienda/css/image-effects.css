@@ -2,6 +2,19 @@
     filter:grayscale(100%);
 }
 .product-box:hover img{
+    /* quito ampliacion sobresscribo selector */
+    transform: scale(1);
     filter:grayscale(0%);
+
+}
+/* saturate */
+.product-box img{
+    filter:saturate(1);
+}
+.product-box:hover img{
+    /* quito ampliacion sobresscribo selector */
+    transform: scale(1);
+    filter:saturate(2);
+
 
 }
