@@ -34,3 +34,11 @@
 
     text-decoration: none;
 }
+.product-box img{
+    transition: all 0.3s;
+}
+
+/* Ampliacion imagenes */
+.product-box:hover{
+    transform: scale(1.05);
+}
