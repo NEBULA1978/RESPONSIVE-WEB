@@ -24,3 +24,13 @@
     outline: 0;
     cursor: pointer;
 } 
+
+.product-box{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+.product-box:hover{
+
+    text-decoration: none;
+}
