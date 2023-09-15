@@ -9,12 +9,12 @@
 }
 /* saturate */
 .product-box img{
-    filter:saturate(1);
+    filter:saturate(0);
 }
 .product-box:hover img{
     /* quito ampliacion sobresscribo selector */
     transform: scale(1);
-    filter:saturate(2);
+    filter:saturate(1);
 
 
 }
