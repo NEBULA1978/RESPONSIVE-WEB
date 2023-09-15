@@ -21,3 +21,4 @@ function includeHTML(containerID, htmlFile) {
 includeHTML("menu-container", "partials/menu.html");
 includeHTML("products-container", "partials/products.html");
 includeHTML("aside-container", "partials/aside.html");
+includeHTML("footer-container", "partials/footer.html");
