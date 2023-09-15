@@ -1,0 +1,7 @@
+.product-box img{
+    filter:grayscale(100%);
+}
+.product-box:hover img{
+    filter:grayscale(0%);
+
+}
